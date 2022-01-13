@@ -15,7 +15,7 @@ import AppRouters from './view/layout/appRoutes'
 
 const App = () => {
     return (
-    <BrowserRouter basename="/react-github-page">
+    <BrowserRouter basename="/react-dom-page-test">
         <Nav />
         <main>
             <AppRouters />
